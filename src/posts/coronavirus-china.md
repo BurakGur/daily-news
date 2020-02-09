@@ -1,0 +1,5 @@
+The coronavirus death toll in China has risen to 811, surpassing the toll from the SARS epidemic of 2002-3, according to official data released on Sunday. The number of confirmed infections rose to 37,198, according to China’s National Health Commission. Eighty-nine deaths and 2,656 new cases were recorded in the preceding 24 hours, most of them in Hubei Province, the heart of the outbreak. A United States citizen died from the coronavirus in Wuhan, the provincial capital, American officials said on Saturday.
+
+The SARS epidemic, which also began in China, killed 774 people worldwide. There have been only two confirmed deaths from the new coronavirus outside mainland China — one in Hong Kong and one in the Philippines.
+
+Many doctors believe that deaths and infections from the current epidemic are undercounted in China because testing facilities are under severe strain.

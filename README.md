@@ -1,6 +1,6 @@
-# Ant Design example
+# Daily News with Ant Design & Next.js
 
-This example shows how to use Next.js along with [Ant Design of React](http://ant.design). This is intended to show the integration of this UI toolkit with the Framework.
+This example shows how to use **markdown** with basic blog system.
 
 ## Deploy your own
 
