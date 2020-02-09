@@ -47,7 +47,7 @@ const News = ({ post }) => (
 
 News.getInitialProps = async ({req, query}) => {
   console.log(query);
-  const res = await fetch(`http://localhost:3000/api/post/${query.postId}`);
+  const res = await fetch(`https://daily-news-burakgur.herokuapp.com/api/post/${query.postId}`);
   const json = await res.json();
   return {
     post: json.post
