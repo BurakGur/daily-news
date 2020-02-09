@@ -1,6 +1,6 @@
 # Daily News with Ant Design & Next.js 
 
-## DEMO: [https://daily-news-burakgur.herokuapp.com](https://daily-news-burakgur.herokuapp.com):
+#### DEMO: [https://daily-news-burakgur.herokuapp.com](https://daily-news-burakgur.herokuapp.com)
 
 This example shows how to use **markdown** with basic blog system.
 
